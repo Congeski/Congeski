@@ -1,8 +1,8 @@
 ### Olá, eu sou Vinícius Congeski 👋
 
 
-- 🔭 Hoje trabalho como Analista de Suporte
-- 🌱 Estudando Informatica - Uem / Back-end Java + Spring
+- 🔭 Hoje trabalho como Estagiário Dev Node.JS
+- 🌱 Estudando Informatica - Uem 
 - 💬 Linkedin: Vinícius Congeski
 - ⚡ Fun fact: Faço Lives na Twitch.
 
