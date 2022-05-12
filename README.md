@@ -1,7 +1,7 @@
 ### Olá, eu sou Vinícius Congeski 👋
 
 
-- 🔭 Hoje trabalho como Estagiário Dev Node.JS
+- 🔭 Hoje trabalho como Estagiário Dev Desktop na Tecnospeed
 - 🌱 Estudando Informatica - Uem 
 - 💬 Linkedin: Vinícius Congeski
 - ⚡ Fun fact: Faço Lives na Twitch.
