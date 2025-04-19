@@ -1,8 +1,8 @@
 ### Olá, eu sou Vinícius Congeski 👋
 
 
-- 🔭 Hoje trabalho como Dev NFSe na Tecnospeed
-- 🌱 Estudando Informatica - Uem 
+- 🔭 Hoje trabalho como Dev
+- 🌱 Estudante de Informatica - Uem 
 - 💬 Linkedin: Vinícius Congeski
 - ⚡ Fun fact: Faço Lives na Twitch.
 
